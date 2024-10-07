@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "sdkconfig.h": "c",
+        "mqtt_client.h": "c",
+        "esp_log.h": "c",
+        "netdb.h": "c",
+        "dns.h": "c",
+        "queue.h": "c",
+        "nvs_flash.h": "c",
+        "esp_wifi.h": "c",
+        "esp_system.h": "c",
+        "esp_event.h": "c",
+        "esp_wifi_types.h": "c",
+        "esp_wifi_crypto_types.h": "c",
+        "esp_wifi_default.h": "c",
+        "protocol_examples_common.h": "c",
+        "esp_err.h": "c",
+        "gpio.h": "c",
+        "rtc_wdt.h": "c",
+        "rtc_periph.h": "c",
+        "stdint.h": "c",
+        "semphr.h": "c",
+        "esp_netif.h": "c",
+        "esp_rom_sys.h": "c",
+        "projdefs.h": "c",
+        "assert.h": "c",
+        "freertosconfig_arch.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.dimInactiveRegions": true
+}
